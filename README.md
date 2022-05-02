@@ -36,7 +36,8 @@ Users should be able to:
  - Don't use this keywords on composition API
  - Add base Url on vite.config file
 
-```export default defineConfig({
+```
+export default defineConfig({
   base: './',
 })
 ```
